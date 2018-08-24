@@ -1,0 +1,7 @@
+{
+  "name": "libens",
+  "desc": "the starter town for now",
+  "travel": ["spooky woods"],
+  "visit": ["blacksmith"],
+  "npcs": ["mayor"]
+}

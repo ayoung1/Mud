@@ -1,0 +1,4 @@
+include sneakymud/data_files/races/*.json
+include sneakymud/data_files/mobs/*.json
+include sneakymud/data_files/cities/*.json
+include sneakymud/data_files/locations/*.json
